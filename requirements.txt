@@ -40,6 +40,7 @@ nest_asyncio
 networkx
 numba
 numpy
+nibabel
 nvidia-cublas-cu12
 nvidia-cuda-cupti-cu12
 nvidia-cuda-nvrtc-cu12
