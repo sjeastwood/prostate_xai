@@ -23,6 +23,7 @@ importlib_metadata
 ipykernel 
 ipython 
 ipython_pygments_lexers 
+itk
 jedi 
 Jinja2
 jiter
@@ -79,6 +80,7 @@ scikit-learn
 scipy
 shap
 six
+simpleitk
 slicer
 sniffio
 stack_data 
