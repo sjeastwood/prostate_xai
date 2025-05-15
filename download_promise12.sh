@@ -8,6 +8,8 @@ curl -L -o data/PROMISE12_test_data.zip "https://zenodo.org/records/8026660/file
 curl -L -o data/PROMISE12_training_data.zip "https://zenodo.org/records/8026660/files/training_data.zip?download=1"
 
 echo "Unzipping..."
-unzip -o data/PROMISE12_live_challenge_test_data.zip -d data/PROMISE12
+unzip -o data/PROMISE12_live_challenge_test_data.zip -d data/PROMISE12/live_challenge_test_data/
+unzip -o data/PROMISE12_test_data.zip -d data/PROMISE12/test_data/
+unzip -o data/PROMISE12_training_data.zip -d data/PROMISE12/training_data/
 
 echo "Done! Data is in ./data/PROMISE12/"
