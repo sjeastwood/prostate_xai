@@ -9,6 +9,7 @@ cycler
 debugpy 
 decorator 
 distro
+einops
 exceptiongroup 
 executing 
 filelock
