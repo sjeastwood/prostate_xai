@@ -27,8 +27,8 @@ Taking first the [PROMISE12](https://doi.org/10.1016/j.media.2013.12.002) datase
 - [ ] Model Implementation:
   - [ ] U-Net
   - [ ] V-Net
-  - [ ] U-NetR
-  - [ ] DT-VNet
+  - [x] U-NetR
+  - [x] DT-VNet
 - [ ] Model training 
 - [ ] Interpretability integration (Grad-CAM)
 
